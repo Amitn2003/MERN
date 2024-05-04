@@ -10,7 +10,4 @@ router.get("/shirt", (req, res) => {
 router.get("/tshirt", (req, res) => {
     res.send("Here you get T-Shirts... ")
 })
-router.get("/pant", (req, res) => {
-    res.send("Here you get Pant... ")
-})
 module.exports = router
