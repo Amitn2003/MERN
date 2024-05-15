@@ -33,13 +33,13 @@ To run the projects and exercises, ensure you have the following installed:
 2. Navigate to the directory of the project you want to explore:
 
     ```bash
-    cd mern-learning/DayX/React
+    cd MERN/DayX/React
     ```
 
     or
 
     ```bash
-    cd mern-learning/DayX/Node_Express
+    cd MERN/DayX/Node_Express
     ```
 
 3. Install dependencies:
